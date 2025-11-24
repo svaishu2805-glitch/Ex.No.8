@@ -1,7 +1,6 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Reg. No:212223020029 
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +52,10 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## Prompt:
+" An abandoned, overgrown library where ancient books are slowly being reclaimed by nature. Vines creep up bookshelves, sunlight streams through broken ceilings, illuminating dust motes dancing in the air. Focus on rich textures and a melancholic, serene atmosphere."
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fcd7e3f9-c198-4c38-8e4b-27e67f2e4d00" />
+
+"A lone astronaut gazing out from a crystal dome on an alien planet, where three moons hang in the sky and strange, luminescent flora illuminates the landscape. Emphasize a sense of peaceful solitude and cosmic wonder, rendered with photorealistic detail."
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ff325286-4675-4340-96a1-9cf1c848119c" />
+
