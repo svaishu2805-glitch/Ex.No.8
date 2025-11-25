@@ -1,7 +1,6 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Reg. No:212223020029 
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +52,10 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## Prompt:
+"A dramatic sunset over a rocky coastline, with waves crashing and a vibrant orange and purple sky reflecting on the water." 
+<img width="405" height="296" alt="image" src="https://github.com/user-attachments/assets/da5381d7-86d2-4a95-a26e-d97891df08b7" />
+
+"Two small, colorful birds with blue and orange feathers perched on a blossoming branch with pink and white flowers, in a watercolor or painterly style."
+<img width="296" height="297" alt="image" src="https://github.com/user-attachments/assets/069b65a5-b8d2-41f1-98c3-75fa7f6f35c9" />
+
