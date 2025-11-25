@@ -53,9 +53,9 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 ## Prompt:
-" An abandoned, overgrown library where ancient books are slowly being reclaimed by nature. Vines creep up bookshelves, sunlight streams through broken ceilings, illuminating dust motes dancing in the air. Focus on rich textures and a melancholic, serene atmosphere."
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fcd7e3f9-c198-4c38-8e4b-27e67f2e4d00" />
+"A dramatic sunset over a rocky coastline, with waves crashing and a vibrant orange and purple sky reflecting on the water." 
+<img width="405" height="296" alt="image" src="https://github.com/user-attachments/assets/da5381d7-86d2-4a95-a26e-d97891df08b7" />
 
-"A lone astronaut gazing out from a crystal dome on an alien planet, where three moons hang in the sky and strange, luminescent flora illuminates the landscape. Emphasize a sense of peaceful solitude and cosmic wonder, rendered with photorealistic detail."
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ff325286-4675-4340-96a1-9cf1c848119c" />
+"Two small, colorful birds with blue and orange feathers perched on a blossoming branch with pink and white flowers, in a watercolor or painterly style."
+<img width="296" height="297" alt="image" src="https://github.com/user-attachments/assets/069b65a5-b8d2-41f1-98c3-75fa7f6f35c9" />
 
